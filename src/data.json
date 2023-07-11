@@ -1,0 +1,192 @@
+{
+    "name": "Likith Lidson DCunha",
+    "role": "Data Analyst, Data Writer",
+    "email": "likithdc@gmail.com",
+    "mobile": [
+        "+49 17632308662"
+    ],
+    "summary": "Hello, I'm Likith Lidson D'Cunha, a data analytics professional based in Berlin, Germany. I hold a Master's degree in Data Analytics and a Bachelor's degree in Statistics and Mathematics. My expertise lies in Python, SQL, R programming, and various data tools, with experience in cloud platforms and database management. I've honed my skills in operations management and sales analysis, with a track record of increasing efficiency and boosting sales. Currently, I'm a Data Intern at Lendorse, Munich, where I'm involved in data modelling and cohort analysis. I'm also proud of my project work in geospatial data visualization and customer segmentation analysis. I'm a lifelong learner, holding certifications from Google and IBM.",
+    "links": {
+        "portfolioPage": "",
+        "github": "https://github.com/LikithDcunha/",
+        "linkedIn": "",
+        "instagram": "",
+        "facebook": "",
+        "dribble": ""
+    },
+    "contents": {
+        "skills": {
+            "grouped": [
+                {
+                    "category": "Programming Languages",
+                    "skills": [
+                        "Python",
+                        "SQL",
+                        "Pandas",
+                        "Numpy",
+                        "SQL",
+                        "R programming"
+                    ]
+                },
+                {
+                    "category": "Version Control",
+                    "skills": [
+                        "Git",
+                        "GitHub"
+                    ]
+                },
+                {
+                    "category": "Cloud Platforms",
+                    "skills": [
+                        "IBM DB2",
+                        "Google Cloud platform",
+                        "Google analytics"
+                    ]
+                },
+                {
+                    "category": "Analysis and Visualization Tools",
+                    "skills": [
+                        "Tableau",
+                        "Excel",
+                        "Google Sheets"
+                    ]
+                },
+                {
+                    "category": "Databases",
+                    "skills": [
+                        "MySQL",
+                        "PostgresSQL"
+                    ]
+                },
+                {
+                    "category": "Agile Methodologies",
+                    "skills": [
+                        "Jira",
+                        "Kanban",
+                        "Trello"
+                    ]
+                }
+            ],
+            "skills": [
+                "Python",
+                "SQL",
+                "Pandas",
+                "Numpy",
+                "SQL",
+                "R programming",
+                "Git",
+                "GitHub",
+                "IBM DB2",
+                "Google Cloud platform",
+                "Google analytics",
+                "Tableau",
+                "Excel",
+                "Google Sheets",
+                "MySQL",
+                "PostgresSQL",
+                "Jira",
+                "Kanban",
+                "Trello"
+            ]
+        },
+        "work_experience": [
+            {
+                "position": "Operations Intern",
+                "company": "Amazon",
+                "location": "Berlin",
+                "start_date": "june 2022",
+                "end_date": "present",
+                "responsibilities": [
+                    "Operations management based on the targets and time constraints",
+                    "Processing orders for incoming and outgoing shipments using in-house amazon logistics Database.",
+                    "Conducted briefing and meeting to the team based on the shipment data available.",
+                    "Managing and training new recruits along with building teamwork."
+                ]
+            },
+            {
+                "position": "Sales Analyst",
+                "company": "DIYA Systems",
+                "location": "India",
+                "start_date": "May 2018",
+                "end_date": "July 2019",
+                "responsibilities": [
+                    "Led team by recognizing both basic and advanced problems on cloud systems, conducted research, provided resolutions, and followed up with customers as needed by collaborating with the Sales and Marketing team.",
+                    "Developed a Data Analysis dashboard on clients which helped to increase sales.",
+                    "Updated the internal databases using SQL with information about technical issues and working with internal stakeholders and customers.",
+                    "Researched marketing opportunity and established Customer Segmentation as well as pricing, marketing and sales content."
+                ]
+            }
+        ],
+        "projects": [
+            {
+                "title": "Customer Segmentation Analysis using RFM",
+                "description": "Data Analysis using MySQL to find the best customers based on Recency, Monetary and Frequency of Orders.",
+                "toolsUsed": [
+                    "MySQL",
+                    "Database",
+                    "SQL"
+                ],
+                "url": "https://github.com/LikithDcunha/SQL_CustomerSegmentation"
+            },
+            {
+                "title": "Visualisation of Geospatial Data of German Population Density",
+                "description": "3D visualization of Population Density on Geospatial data of Berlin-Brandenberg.",
+                "toolsUsed": [
+                    "R programming",
+                    "Rayshader Library"
+                ],
+                "url": "https://github.com/LikithDcunha/Rayshader"
+            }
+        ],
+        "certifications": [
+            {
+                "title": "Google Data Analytics Specialization, -Google With Coursera.",
+                "link": "https://coursera.org/verify/professional-cert/FQ7GM5ZCQRFT",
+                "issuedDate": "March 28, 2022"
+            },
+            {
+                "title": "IBM Data Science: Data Science & AI with Python",
+                "link": "https://www.coursera.org/account/accomplishments/verify/4946RC2G3CXY?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course",
+                "issuedDate": "January 22, 2023"
+            },
+            {
+                "title": "IBM Data Science: Data Visualization with Python",
+                "link": "https://www.coursera.org/account/accomplishments/verify/CQBLSPX8L7QN?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course",
+                "issuedDate": "January 7, 2023"
+            }
+        ],
+        "education": [
+            {
+                "courseName": "MS. Data Analytics",
+                "collegeName": "BERLIN SCHOOL OF BUSINESS AND INNOVATION, BERLIN SCHOOL OF BUSINESS AND INNOVATION, BERLIN WITH UNIVERSITY FOR THE CREATIVE ARTS, LONDON.",
+                "location": "Berlin",
+                "startDate": "2022",
+                "endDate": "Present"
+            },
+            {
+                "courseName": "MS.Mathematics",
+                "collegeName": "MANGALORE UNIVERSITY",
+                "location": "INDIA",
+                "startDate": "2019",
+                "endDate": "2021"
+            },
+            {
+                "courseName": "BS. Statistics and Mathematics, ",
+                "collegeName": "MANGALORE UNIVERSITY",
+                "location": "INDIA",
+                "startDate": "2015",
+                "endDate": "2018"
+            }
+        ],
+        "languages": [
+            {
+                "language": "English",
+                "proficency": "Native or Bilingual "
+            },
+            {
+                "language": "German",
+                "proficency": "Conversational Level "
+            }
+        ]
+    }
+}
