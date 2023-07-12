@@ -7,6 +7,6 @@
   portfolio.set(jsonData);
 </script>
 
-<main>
+<div>
   <Layoult />
-</main>
+</div>
