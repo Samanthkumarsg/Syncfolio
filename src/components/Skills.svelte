@@ -7,7 +7,6 @@
 
     const unsubscribe = portfolio.subscribe((value) => {
         skills = value?.contents?.skills?.skills;
-        console.log(skills);
     });
 
     onDestroy(() => {
@@ -21,8 +20,7 @@
     <h1 class="text-lg font-bold text-gray-800 mb-6">Skills</h1>
     <div class="flex flex-wrap gap-4">
         {#each skills as skill}
-        <Pills {skill}/>
-            
+            <Pills {skill} />
         {/each}
     </div>
 </div>

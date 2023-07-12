@@ -6,7 +6,6 @@
 
     const unsubscribe = portfolio.subscribe((value) => {
         Summary = value?.summary;
-        console.log(Summary);
     });
 
     onDestroy(() => {
